@@ -1,0 +1,36 @@
+{
+  "name": "react-native-video-controls-hapo",
+  "version": "2.4.9",
+  "description": "A set of GUI controls for the react-native-video component",
+  "license": "MIT",
+  "main": "VideoPlayer.js",
+  "keywords": [
+    "react-native",
+    "react-native-video",
+    "react video controls",
+    "react video player"
+  ],
+  "scripts": {
+    "test": "echo \"No test specified\" && exit 1"
+  },
+  "author": "Nubix (https://github.com/itsnubix)",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/itsnubix/react-native-video-controls.git"
+  },
+  "dependencies": {
+    "lodash": "^4.16.4"
+  },
+  "peerDependencies": {
+    "react-native": ">=0.46.0",
+    "react-native-video-with-ads": "git+https://github.com/haposoft/react-native-video-with-ads.git"
+  },
+  "bugs": {
+    "url": "https://github.com/itsnubix/react-native-video-controls/issues"
+  },
+  "homepage": "https://github.com/itsnubix/react-native-video-controls#readme",
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {}
+}
